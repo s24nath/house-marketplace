@@ -1,0 +1,28 @@
+/* Import image and SVG starts */
+/* Import image and SVG ends */
+
+/* Import local pages and component starts */
+/* Import local pages and component ends */
+
+/* Component states declaration starts */
+/* Component states declaration ends */
+
+/* Other hooks declaration starts */
+/* Other hooks declaration ends */
+
+/* Component useEffect starts */
+/* Component useEffect ends */
+
+/* Component variable declaration / object destructure starts */
+/* Component variable declaration / object destructure ends */
+
+/* Component function definition starts */
+/* Component function definition ends */
+
+/* ************* Component rendering. JSX code ************* */
+
+/* Component starts */
+/* Component ends */
+
+/* Component rendering. JSX code starts */
+/* Component rendering. JSX code ends */
